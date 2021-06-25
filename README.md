@@ -39,8 +39,7 @@ The configuration details of each machine may be found below.
 | Web-1    |          |            |                  |
 | Web-2    |          |            |                  |
 | Web-3    |          |            |                  |
-
-
+| ELK_VM   |          |            |                  |
 
 ### Access Policies
 
