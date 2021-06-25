@@ -33,6 +33,13 @@ Integrating an ELK server allows users to easily monitor the vulnerable VMs for 
 
 The configuration details of each machine may be found below.
 
+Name	Function	IP Address	Operating System
+OffSec-JB	Gateway	10.1.0.4	Linux
+OffSecELK	ELKServer	10.2.0.4	Linux
+OffSecWeb1	Webserver	10.1.0.5	Linux
+OffSecWeb2	Webserver	10.1.0.6	Linux
+OffSecWeb3	Webserver	10.1.0.7	Linux
+
 ╔═════════╦════════════════╦════════════╦══════════════════╗
 ║ Name    ║ Function       ║ IP Address ║ Operating System ║
 ╠═════════╬════════════════╬════════════╬══════════════════╣
