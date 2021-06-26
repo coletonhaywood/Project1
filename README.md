@@ -42,14 +42,6 @@ The configuration details of each machine may be found below.
 | ELK-VM  | Server         | 10.0.0.4   | Linux            |
 
 
-| Name     | Function | IP Address | Operating System |
-|----------|----------|------------|------------------|
-| Jump Box | Gateway  | 10.0.0.1   | Linux            |
-| Web-1    |          |            |                  |
-| Web-2    |          |            |                  |
-| Web-3    |          |            |                  |
-| ELK_VM   |          |            |                  |
-
 ### Access Policies
 
 The machines on the internal network are not exposed to the public Internet. 
